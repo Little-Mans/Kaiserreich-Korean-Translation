@@ -7,11 +7,11 @@ austrian_sphere_sued:0 "남동유럽"
 
 ### Flags and Tooltips ###
 AUS_economy_ready_tooltip:0 "우리는 경제의 선진화를 준비해야 합니다. \n\n 이는 당연히 현재 우리에게 닥친 경제 위기를 극복해야 한다는 것을 의미합니다."
-AUS_potb_albania_tooltip:0 "Albania borders our Sphere of Influence."
-AUS_potb_greece_tooltip:0 "Greece borders our Sphere of Influence."
-AUS_potb_romanian_civil_war_tooltip:0 "The Romanian Civil War is raging on our borders."
-AUS_potb_romania_tooltip:0 "The restored Kingdom of Romania borders our Sphere of Influence."
-AUS_potb_claims_on_bulgaria_tooltip:0 "The Bulgarians hold territory that rightfully belong to our Spherelings."
+AUS_potb_albania_tooltip:0 "알바니아 왕국은 우리 세력권 내에 있습니다."
+AUS_potb_greece_tooltip:0 "그리스 왕국은 우리 세력권 내에 있습니다."
+AUS_potb_romanian_civil_war_tooltip:0 "우리 국경 주변에서 루마니아 내전이 발발했습니다."
+AUS_potb_romania_tooltip:0 "복원된 루마니아 왕국은 우리 세력권 내에 있습니다."
+AUS_potb_claims_on_bulgaria_tooltip:0 "불가리아인들이 우리 세력권 내의 국가들에게 속한 영토를 차지하고 있습니다."
 
 AUS_syndicalist_menace_tooltip:0 "The Fires of War burn once more, and our interests in Italy are threatened by an emboldened Internationale."
 
@@ -93,7 +93,7 @@ AUS_invest_in_eco:0 "제국 경제 장관"
 AUS_invest_in_eco_desc:0 "검은 월요일로 인한 최근의 사건들로 인해 오스트리아-헝가리는 우리의 왕국을 위한 일련의 개혁을 단행하였습니다.이 개혁은 제국 경제 장관에 의해 수행되었습니다."
 
 AUS_kaiser_faith:0 "황제에 대한 믿음"
-AUS_kaiser_faith_desc:0 "사람들은 새로운 왕국을 신뢰하게 되었습니다. 신이시여 황제 폐하를 수호하소서!"
+AUS_kaiser_faith_desc:0 "사람들은 새로운 왕국을 신뢰하게 되었습니다. 신이시여, 황제 폐하를 수호하소서!"
 
 AUS_k_u_k_armee_bonus:0 "공동 군대 모집"
 AUS_k_u_k_armee_bonus_desc:0 "1867 년 3 월 15 일에 설립된 오스트리아와 헝가리의 공동 군대는 이중제국 군대의 주요 부분이 되었습니다."
@@ -125,8 +125,8 @@ AUS_eco_council_desc:0 "오스트리아 경제의 부진한 상태에 대해 논
 AUS_skoda:0 "스코다"
 AUS_skoda_desc:0 "세계대전 기간 동안 프라하의 서쪽에 있는 스코다 사는 가장 큰 군수 제조사였지만 독일 산업의 압도적인 힘으로 어려움에 빠졌습니다. 독일이 검은 월요일(Black Monday)의 중심에 휩싸여 흔들리는 사이, 스코다 사에 대한 보조금은 우리 경제를 복구하는 큰 발판이 될것 입니다."
 
-AUS_daimler:0 "Austro Daimler"
-AUS_daimler_desc:0 "Austro Daimler 회사는 우리의 전쟁 수행을 위해 많은 장갑차 및 엔진을 제조했습니다. 독일 자동차와 엔진은 지난 수십 년 동안 시장에 넘쳐 났지만, 포르쉐는 파산 직전에 시달리고 메르세데스-벤츠는 이를 따르고 있습니다. 우리 자동차 산업에 새로운 생명을 불어 넣을 시간입니다."
+AUS_daimler:0 "오스트로 다임러"
+AUS_daimler_desc:0 "오스트로 다임러 사는 우리의 전쟁 수행을 위해 많은 장갑차 및 엔진을 제조했습니다. 독일 자동차와 엔진은 지난 수십 년 동안 시장에 넘쳐 났지만, 포르쉐는 파산 직전에 시달리고 메르세데스-벤츠는 이를 따르고 있습니다. 우리 자동차 산업에 새로운 생명을 불어 넣을 시간입니다."
 
 AUS_vienna_circle_1:0 "빈 학파를 공공 단체로 만들다."
 AUS_vienna_circle_1_desc:0 "빈 학파는 과학과 철학 연구의 중심에있는 뛰어난 수학자, 철학자, 자연 과학자들과 비엔나 대학의 가장 뛰어난 지성의 집합체입니다. 우리는 정부 기금을 그들에게 제공 할 것이지만, 그들의 일을 새롭고 좀 더 실용적인 분야로 옮길 것입니다."
@@ -263,10 +263,10 @@ AUS_support_equipment_desc:0 "Units must be properly equiped to be effective. Th
 AUS_mech_cavalry:0 "기계화된 기병"
 AUS_mech_cavalry_desc:0 "While tanks are strong and all, they require support from the infantry or else they become extremely vulnerable. The infantry must be able to keep up with the tanks, and while trucks are good on roads, a tracked transport vehicle would be idea. Fortunately, a Hungarian unit has rebuilt obsolete tanks and artillery tractors into improvised armoured troop transports, which would fill the gap perfectly."
 
-AUS_kavalleriepanzer:0 "Kavalleriepanzer Project"
+AUS_kavalleriepanzer:0 "기병전차 계획"
 AUS_kavalleriepanzer_desc:0 "As their name implies, Cavalry tanks effectively fill the role cavalry used to. Austria-Hungary has successfully developed and adopted several designs already and there is little impetus to change this. Since mobility is a key part of our new doctrine, development of new cavalry tanks must be prioritised."
 
-AUS_infanteriepanzer:0 "Infanteriepanzer Project"
+AUS_infanteriepanzer:0 "보병전차 계획"
 AUS_infanteriepanzer_desc:0 "While the military already has numerous successful cavalry tank designs, the Infantry tank project has been, thus far, unable to provide results. This must be rectified as infantry support is prioritised in our new doctrine and the project should be pushed further. The upcoming designs are becoming heavier and more expensive, but powerful and better protected."
 
 AUS_auftragstaktik:0 "Modern Auftragstaktik"
